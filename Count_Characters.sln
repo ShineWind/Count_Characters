@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Count_Characters", "Count_Characters.pyproj", "{BD01A684-AE9E-41FB-B6BD-383DCA8E2DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD01A684-AE9E-41FB-B6BD-383DCA8E2DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD01A684-AE9E-41FB-B6BD-383DCA8E2DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2FC51A8-723A-4A91-B13D-5FB88C325163}
+	EndGlobalSection
+EndGlobal
